@@ -1,4 +1,4 @@
- Scholarship Management System
+                                                **Scholarship Management System**
 
 A full-stack web application where Admin can add/update/delete scholarships and Users can view/apply for scholarships.
 Built using Node.js, Express, MySQL, HTML, CSS, JavaScript.
